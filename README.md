@@ -1,5 +1,5 @@
 # icons
-display all icon name in current system
+display all icons name in current system
 
 # install 
 ```shell
